@@ -1,0 +1,7 @@
+date, duration, subject
+2021-10-02,60min,pandas tutorial
+2021-10-02,155min,project dataset
+2021-10-02,start:2230,end:0200,project dataset
+2021-10-03,start:1135,end:1222,project dataset
+2021-10-03,start:1400,end:1426,project dataset
+2021-10-03,start:1643,end:1837videos 3 + quiz 3
