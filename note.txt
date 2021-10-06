@@ -10,6 +10,8 @@ date, duration, subject
 2021-10-04,start:1331,end:1409,homework1
 2021-10-04,start:1630,end:1915,homework1
 2021-10-04,start:1630,end:1742:,homework3
+2021-10-04,start:1945,end:2257:,lab3
+
 
 
 

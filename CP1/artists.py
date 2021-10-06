@@ -54,9 +54,10 @@ artists_df['name'] = ""
 
 for id in artists_df['artist_id']:
     artist_info = sp.artist(id)
+    type(artist_info['genres'])
     add_value_to_df(artists_df, id, "followers", int(artist_info["followers"]["total"]))
     add_value_to_df(artists_df, id, "popularity", int(artist_info["popularity"]))
     add_value_to_df(artists_df, id, "genres", ', '.join(artist_info['genres']))
     add_value_to_df(artists_df, id, "name", artist_info["name"])
-    
+
 artists_df.to_csv('artists.csv', index=False, header=True)
