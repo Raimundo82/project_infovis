@@ -10,7 +10,6 @@ def filterColumns(df, cols_to_maintain):
 # reading csv files with some filtering regarding missing values 
 gdp_df = pd.read_csv('gdp_per_capita.csv', delimiter=',', na_filter=True, na_values=['..',None])
 codes_df = pd.read_csv("country_codes.csv", delimiter=',', encoding="latin1")
-print(gdp_df.columns)
 # cleaning dataframes
 filterColumns(codes_df,['name','alpha-2'])
 codes_df.dropna(inplace=True)

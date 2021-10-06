@@ -1,3 +1,4 @@
+from typing import Counter
 import pandas as pd
 from pandas.core.frame import DataFrame
 
@@ -8,9 +9,11 @@ def filterColumns(df, cols_to_maintain):
     df.drop(cols_to_remove, axis=1,inplace=True)
 
 # reading csv files with some filtering regarding missing values 
-gdp_df = pd.read_csv('gdp_per_capita.csv', delimiter=',', na_filter=True, na_values=['..',None])
+gdp_df = pd.read_csv('data.csv', delimiter=',', na_filter=True, na_values=['..', " ", None], encoding="latin1")
 codes_df = pd.read_csv("country_codes.csv", delimiter=',', encoding="latin1")
-print(gdp_df.columns)
+
+gdp_df.info()
+
 # cleaning dataframes
 filterColumns(codes_df,['name','alpha-2'])
 codes_df.dropna(inplace=True)
@@ -19,10 +22,8 @@ gdp_df.drop(['Info'],axis=1,inplace=True)
 gdp_df.dropna(inplace=True)
 
 # calculating the sum of gdp for each country
-countries = gdp_df['Country'].unique()
-cols_to_sum = gdp_df.columns.drop(['Country'])
-for c in countries:
-    gdp_df["sum"] = gdp_df[cols_to_sum].sum(axis=1)
+    
+gdp_df["sum"] = gdp_df.sum(axis=1)
 
 # discarding all the years columns
 filterColumns(gdp_df, ['Country','sum'])
