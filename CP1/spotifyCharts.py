@@ -13,10 +13,10 @@ final = []
 
 #map site
 
-regions = ["global","pt","us","fr","de","br","ar","au","nz","za","tr","in","ca"]
+regions = ["global"]
 
 url_base = "https://spotifycharts.com/regional/{}/daily/"
-start_date= date(2020, 1, 1)
+start_date= date(2017, 1, 1)
 end_date= date(2020, 12, 31)
 
 delta= end_date-start_date
@@ -61,7 +61,7 @@ for r in regions:
     add_url()
 
 #loop through urls to create array of all of our song info
-
+counter = 0
 for u in url_list:
     read_pg= requests.get(u,headers=headers)
     sleep(2)
@@ -72,15 +72,15 @@ for u in url_list:
         songs= soup.find("table", {"class":"chart-table"})
         region = soup.find("div", {"class":"responsive-select-value"}).text
         song_scrape(u)
+        counter += 1
+        print(counter)
     except:
         print(u)
  
 #convert to data frame with pandas for easier data manipulation
 
-final_df = pd.DataFrame(final, columns= ["pos","Title", "Artist", "Song ID", "streams","Chart Date", "country"])
+final_df = pd.DataFrame(final, columns= ["pos","title", "artist", "track_id", "streams","date", "country"])
 
 #write to csv
 
-with open('teste.csv', 'w') as f:
-    print("Creating csv file")
-    final_df.to_csv(f, header= True, index=False)
+final_df.to_csv('global_streams_2017_2020.csv',header= True, index=False)

@@ -17,10 +17,7 @@ client_credentials_manager = SpotifyClientCredentials(client_id, secret)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 # create dataframe from the csv file
-spcharts_df = pd.read_csv("streams.csv",delimiter=',',encoding="latin1")
-
-# obtain the unique tracks id
-track_id = spcharts_df.song_id.unique()
+spcharts_df = pd.read_csv("global_streams_2017_2020.csv",delimiter=',',encoding="latin1")
 
 # create new DF to store all the tracks info
 tracks_df = pd.DataFrame()
@@ -49,8 +46,8 @@ keys = tracks_df.columns.drop(['track_id',*features])
 def extract_elements(arr,key):
     str = ''
     for element in arr:
-        str += element[key] + ', ' 
-    return str[:-2]
+        str += element[key] + ',' 
+    return str[:-1]
     
 counter = 0
 for id in tracks_df['track_id']:
@@ -70,4 +67,4 @@ for id in tracks_df['track_id']:
             add_value_to_df(tracks_df, id, f, audio_features[f])
     
 tracks_df.drop(['track_href','analysis_url','type','uri'], axis=1, inplace=True)
-tracks_df.to_csv('tracks.csv', index=False, header=True)
+tracks_df.to_csv('global_tracks.csv', index=False, header=True)

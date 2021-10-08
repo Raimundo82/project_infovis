@@ -1,0 +1,520 @@
+genre,total_genre_streams,number_of_tracks,number_of_artists
+pop,54813760193.0,788.0,205.0
+rap,31149702581.0,530.0,109.0
+trap latino,31034960837.0,205.0,67.0
+reggaeton,28443576159.0,201.0,61.0
+latin,27564978021.0,216.0,68.0
+dance pop,25542629295.0,452.0,128.0
+pop rap,18453874301.0,348.0,80.0
+melodic rap,18013957736.0,259.0,26.0
+trap,17505106247.0,363.0,74.0
+hip hop,12018918769.0,319.0,79.0
+canadian pop,10062733477.0,136.0,11.0
+reggaeton flow,8292045970.0,68.0,33.0
+reggaeton colombiano,7996748356.0,82.0,10.0
+uk pop,7539817759.0,90.0,18.0
+electropop,7088979592.0,118.0,33.0
+pop dance,6501465157.0,90.0,37.0
+edm,6281551802.0,92.0,37.0
+tropical house,6119543812.0,74.0,37.0
+post-teen pop,5712679935.0,181.0,43.0
+slap house,5363812590.0,39.0,7.0
+atl hip hop,5012596207.0,187.0,24.0
+chicago rap,4822379396.0,69.0,10.0
+latin hip hop,4502235360.0,52.0,21.0
+canadian hip hop,4240462023.0,68.0,6.0
+southern hip hop,3846974411.0,129.0,44.0
+toronto rap,3812657190.0,71.0,4.0
+canadian contemporary r&b,3338451838.0,34.0,3.0
+puerto rican pop,3005496225.0,46.0,6.0
+alt z,2753483419.0,28.0,22.0
+north carolina hip hop,2686003290.0,41.0,2.0
+indie pop,2319350924.0,18.0,13.0
+k-pop,2300267808.0,75.0,11.0
+brooklyn drill,2217944960.0,31.0,5.0
+pop rock,2206721122.0,26.0,19.0
+r&b,2183141994.0,90.0,33.0
+electro house,2141544953.0,30.0,15.0
+dfw rap,2139156122.0,18.0,1.0
+uk dance,2043390577.0,13.0,9.0
+bedroom pop,2041382106.0,11.0,6.0
+perreo,1993127803.0,12.0,8.0
+colombian pop,1906296455.0,29.0,8.0
+atl trap,1899542867.0,57.0,2.0
+latin pop,1805415709.0,43.0,27.0
+indie poptimism,1793223538.0,27.0,7.0
+australian pop,1758555362.0,25.0,7.0
+trap boricua,1707606730.0,31.0,2.0
+modern rock,1516213488.0,36.0,21.0
+gangster rap,1499658971.0,40.0,20.0
+r&b en espanol,1452284609.0,18.0,3.0
+cali rap,1430619683.0,19.0,10.0
+panamanian pop,1427573487.0,17.0,1.0
+viral pop,1395068851.0,58.0,9.0
+rock,1348736169.0,68.0,36.0
+sad rap,1337122024.0,5.0,5.0
+trap argentino,1305632966.0,12.0,7.0
+pop edm,1275939690.0,9.0,8.0
+trap queen,1254792841.0,19.0,4.0
+pop r&b,1253850956.0,16.0,6.0
+miami hip hop,1247917460.0,12.0,4.0
+emo rap,1164282743.0,17.0,4.0
+k-pop girl group,1159296038.0,24.0,6.0
+k-pop boy group,1151391074.0,48.0,2.0
+queens hip hop,1146374617.0,13.0,4.0
+alternative r&b,1126475866.0,38.0,12.0
+pop reggaeton,1118037806.0,10.0,3.0
+brostep,1115373981.0,13.0,3.0
+etherpop,1113936145.0,20.0,1.0
+progressive electro house,1074077436.0,14.0,4.0
+nz pop,1073824048.0,5.0,2.0
+houston rap,1052437074.0,11.0,1.0
+urban contemporary,1042949233.0,37.0,22.0
+hip pop,1004069731.0,22.0,13.0
+adult standards,949634175.0,57.0,23.0
+canadian trap,945514101.0,30.0,3.0
+vapor trap,939680219.0,12.0,7.0
+detroit hip hop,921669886.0,40.0,4.0
+house,917304133.0,21.0,10.0
+classic rock,892923562.0,31.0,20.0
+pop house,889995935.0,3.0,2.0
+mellow gold,837310164.0,31.0,23.0
+philly rap,830411201.0,59.0,2.0
+german dance,822022353.0,7.0,4.0
+lounge,804793822.0,39.0,13.0
+bubblegrunge,779015290.0,1.0,1.0
+boy band,749004384.0,38.0,5.0
+soft rock,729630109.0,27.0,22.0
+scandipop,728694613.0,7.0,5.0
+rhode island rap,725802393.0,2.0,1.0
+kentucky hip hop,724402508.0,20.0,2.0
+rap conscient,708788570.0,20.0,3.0
+deep underground hip hop,707835571.0,10.0,1.0
+ohio hip hop,706130637.0,40.0,2.0
+country,664377051.0,20.0,11.0
+talent show,593341206.0,35.0,7.0
+social media pop,580382669.0,5.0,4.0
+german hip hop,553649067.0,89.0,38.0
+easy listening,539865997.0,24.0,9.0
+bedroom soul,537160607.0,5.0,3.0
+sad lo-fi,517691696.0,4.0,4.0
+contemporary country,516871844.0,20.0,9.0
+uk contemporary r&b,513088495.0,4.0,3.0
+argentine hip hop,500813694.0,5.0,5.0
+conscious hip hop,494621160.0,27.0,9.0
+nyc rap,487387958.0,11.0,6.0
+francoton,485834182.0,12.0,11.0
+vocal jazz,478811888.0,23.0,14.0
+pop urbaine,476772727.0,23.0,17.0
+album rock,476342161.0,26.0,17.0
+glam rock,436855606.0,11.0,6.0
+funk carioca,432095619.0,22.0,22.0
+french hip hop,416905336.0,23.0,15.0
+hollywood,413187232.0,5.0,4.0
+australian hip hop,413185901.0,15.0,1.0
+chicago drill,401284406.0,6.0,3.0
+drill,401284406.0,6.0,3.0
+brill building pop,395976016.0,14.0,8.0
+viral rap,390343340.0,14.0,8.0
+lgbtq+ hip hop,381040736.0,11.0,5.0
+escape room,380404511.0,15.0,11.0
+dominican pop,374539759.0,7.0,5.0
+metropopolis,374181947.0,6.0,3.0
+new wave pop,363660285.0,13.0,15.0
+memphis hip hop,355918731.0,12.0,4.0
+rap marseille,355617700.0,3.0,6.0
+modern alternative rock,339065894.0,12.0,7.0
+pop venezolano,323677853.0,5.0,3.0
+new orleans rap,303007085.0,11.0,2.0
+permanent wave,268961628.0,21.0,12.0
+neo soul,261188369.0,8.0,7.0
+dirty south rap,259739166.0,8.0,8.0
+east coast hip hop,251505903.0,8.0,9.0
+jazz pop,250643955.0,14.0,2.0
+soul,250608152.0,21.0,11.0
+funk pop,249701867.0,9.0,5.0
+baton rouge rap,244317546.0,9.0,1.0
+pop soul,237966122.0,2.0,2.0
+rockabilly,232568503.0,6.0,4.0
+disco,231149177.0,5.0,5.0
+basshall,230729622.0,5.0,3.0
+europop,229329055.0,10.0,9.0
+piano rock,227115019.0,9.0,3.0
+neo mellow,222673842.0,10.0,9.0
+pop nacional,221659196.0,11.0,6.0
+indie r&b,216804004.0,9.0,5.0
+new wave,212432697.0,6.0,6.0
+rap francais,207149219.0,9.0,9.0
+swedish pop,205558653.0,7.0,4.0
+spanish pop,201400252.0,5.0,6.0
+australian psych,199840419.0,11.0,1.0
+neo-psychedelic,199840419.0,11.0,1.0
+uk hip hop,192281420.0,16.0,8.0
+afroswing,190835817.0,4.0,4.0
+folk-pop,190698204.0,4.0,4.0
+yacht rock,186432626.0,6.0,4.0
+dark trap,185455999.0,1.0,1.0
+pagode baiano,184603956.0,9.0,2.0
+new romantic,184145047.0,5.0,5.0
+country rock,182378343.0,4.0,3.0
+rock-and-roll,182133898.0,8.0,5.0
+synthpop,180106525.0,4.0,4.0
+pittsburgh rap,176286881.0,14.0,2.0
+art rock,175384393.0,8.0,7.0
+rap dominicano,169349942.0,4.0,1.0
+dembow,169349942.0,4.0,1.0
+rap latina,162978598.0,5.0,3.0
+cubaton,159309013.0,1.0,1.0
+country road,158158364.0,6.0,4.0
+motown,153628239.0,15.0,8.0
+sertanejo universitario,150714569.0,11.0,6.0
+grime,150469963.0,6.0,3.0
+indietronica,145949961.0,8.0,4.0
+deep house,144470373.0,4.0,2.0
+australian dance,143978089.0,10.0,2.0
+deep euro house,143590690.0,3.0,1.0
+minnesota hip hop,138739705.0,4.0,1.0
+beatlesque,137379469.0,4.0,3.0
+latin arena pop,136619250.0,12.0,4.0
+trap chileno,135898540.0,5.0,3.0
+underground hip hop,132562762.0,15.0,13.0
+moombahton,125970579.0,10.0,2.0
+alberta hip hop,125281548.0,3.0,1.0
+indie folk,123479057.0,2.0,1.0
+melancholia,123479057.0,2.0,1.0
+eau claire indie,123479057.0,2.0,1.0
+chill r&b,120973767.0,5.0,4.0
+bases de freestyle,120804975.0,2.0,1.0
+r&b argentino,119495278.0,1.0,1.0
+mexican pop,115449314.0,15.0,9.0
+dream smp,114763223.0,5.0,4.0
+trap triste,114694699.0,2.0,2.0
+reggae fusion,111655940.0,4.0,4.0
+urbano espanol,111138563.0,3.0,3.0
+modern indie pop,110064311.0,2.0,2.0
+forro,106934556.0,6.0,3.0
+norwegian pop,105071379.0,2.0,2.0
+brega funk,99455659.0,5.0,6.0
+art pop,97822157.0,7.0,7.0
+afro dancehall,96659402.0,6.0,3.0
+nigerian pop,96659402.0,6.0,3.0
+blues rock,96522533.0,4.0,4.0
+barbadian pop,94408109.0,2.0,1.0
+dancehall,93039866.0,4.0,2.0
+nigerian hip hop,92950057.0,4.0,2.0
+trap soul,92244248.0,7.0,2.0
+florida rap,91986217.0,4.0,2.0
+regional mexican,91196566.0,5.0,4.0
+sertanejo,90543055.0,11.0,6.0
+nyc pop,90101558.0,1.0,1.0
+new french touch,90101558.0,1.0,1.0
+spanish indie pop,89557219.0,1.0,1.0
+tennessee hip hop,87323917.0,3.0,2.0
+plugg,86114146.0,17.0,2.0
+alabama rap,85792964.0,1.0,1.0
+swing,84252336.0,13.0,7.0
+swedish electropop,84167155.0,3.0,1.0
+hamburg hip hop,83144755.0,16.0,5.0
+progressive house,82592419.0,6.0,3.0
+big room,81806217.0,4.0,2.0
+ninja,81804203.0,9.0,1.0
+bmore,81804203.0,9.0,1.0
+dutch edm,80817358.0,3.0,2.0
+frauenrap,80188634.0,12.0,5.0
+nuevo regional mexicano,79361630.0,3.0,2.0
+ranchera,79361630.0,3.0,2.0
+mariachi,79361630.0,3.0,2.0
+detroit trap,78856041.0,2.0,1.0
+trance,78806417.0,1.0,1.0
+uk funky,78716691.0,2.0,2.0
+bolero,78399127.0,2.0,1.0
+classic girl group,78259826.0,3.0,1.0
+jawaiian,78074584.0,1.0,1.0
+german pop,77472830.0,16.0,11.0
+afro soul,76316174.0,2.0,2.0
+south african pop,76316174.0,2.0,2.0
+south african house,74851671.0,1.0,1.0
+musical advocacy,73198864.0,1.0,1.0
+indie rockism,71495440.0,1.0,1.0
+hard rock,71007167.0,17.0,8.0
+folk rock,70968937.0,4.0,3.0
+irish pop,70549931.0,1.0,1.0
+alternative hip hop,67169979.0,7.0,8.0
+italian hip hop,66909056.0,21.0,17.0
+sophisti-pop,66549683.0,2.0,2.0
+meme rap,63389888.0,2.0,2.0
+german drill,63332934.0,16.0,4.0
+melodic dubstep,62680701.0,1.0,1.0
+alternative pop rock,61655297.0,2.0,1.0
+experimental,60999532.0,1.0,1.0
+experimental pop,60999532.0,1.0,1.0
+pop flamenco,60674226.0,1.0,1.0
+rumba,60674226.0,1.0,1.0
+spanish pop rock,60674226.0,1.0,1.0
+piseiro,58886867.0,5.0,1.0
+hardcore hip hop,56335311.0,6.0,6.0
+sertanejo pop,55724674.0,6.0,6.0
+indie pop rap,54929766.0,3.0,1.0
+oakland hip hop,54929766.0,3.0,1.0
+italian pop,54609199.0,21.0,9.0
+trap italiana,53262002.0,20.0,13.0
+colombian hip hop,53228653.0,2.0,1.0
+new rave,52573445.0,1.0,1.0
+electro,52489850.0,2.0,2.0
+west coast rap,50617616.0,7.0,4.0
+electronic trap,45593174.0,2.0,1.0
+american folk revival,45276546.0,2.0,1.0
+instrumental grime,44270923.0,2.0,1.0
+birmingham grime,44270923.0,2.0,1.0
+romanian pop,43136545.0,5.0,1.0
+kosovan pop,43136545.0,5.0,1.0
+belgian pop,42465565.0,2.0,2.0
+light music,42301108.0,1.0,1.0
+variete francaise,41420634.0,1.0,1.0
+acoustic pop,39340745.0,1.0,1.0
+punk,38690775.0,2.0,2.0
+russian dance,38316051.0,1.0,1.0
+celtic punk,37950755.0,1.0,1.0
+folk punk,37950755.0,1.0,1.0
+celtic,37950755.0,1.0,1.0
+celtic rock,37950755.0,1.0,1.0
+irish folk,37950755.0,1.0,1.0
+latin viral pop,37224925.0,7.0,6.0
+la pop,37018366.0,4.0,1.0
+speedrun,36348587.0,2.0,1.0
+video game music,36348587.0,2.0,1.0
+vocal harmony group,35962559.0,2.0,2.0
+eurodance,35857103.0,3.0,3.0
+musica canaria,35232745.0,1.0,1.0
+afrofuturism,33677126.0,2.0,2.0
+deep adult standards,33568468.0,2.0,2.0
+german cloud rap,33254554.0,12.0,2.0
+funk,32454232.0,10.0,6.0
+canadian old school hip hop,32126270.0,1.0,1.0
+irish singer-songwriter,31290007.0,1.0,1.0
+bachata,30945042.0,1.0,1.0
+quiet storm,30370102.0,8.0,5.0
+complextro,30104947.0,3.0,2.0
+cumbia pop,28675743.0,1.0,1.0
+trip hop,28643680.0,1.0,1.0
+experimental r&b,28643680.0,1.0,1.0
+alternative rock,28268403.0,9.0,3.0
+show tunes,27715670.0,2.0,1.0
+future house,27108406.0,1.0,1.0
+k-rap,26844930.0,10.0,2.0
+modern country rock,25464301.0,2.0,1.0
+london rap,25366971.0,3.0,2.0
+dmv rap,25053787.0,12.0,3.0
+dance rock,24945641.0,5.0,3.0
+girl group,24494551.0,8.0,2.0
+canadian latin,24142092.0,1.0,1.0
+chinese electropop,23954074.0,1.0,1.0
+filter house,23846170.0,1.0,1.0
+german alternative rap,23600968.0,1.0,1.0
+uk alternative hip hop,22849318.0,2.0,2.0
+metal,21485420.0,9.0,3.0
+aesthetic rap,21344764.0,1.0,1.0
+belgian hip hop,20824677.0,13.0,2.0
+rap belge,20824677.0,13.0,2.0
+venezuelan hip hop,20475885.0,1.0,1.0
+italian adult pop,19901964.0,5.0,6.0
+torch song,19314694.0,4.0,4.0
+ukg revival,19092160.0,2.0,1.0
+dutch hip hop,18897639.0,5.0,5.0
+heartland rock,18806609.0,5.0,4.0
+indie rock,18714986.0,4.0,3.0
+pop lgbtq+ brasileira,16854931.0,3.0,3.0
+new york drill,16599233.0,2.0,1.0
+oklahoma country,16305567.0,2.0,2.0
+boom bap,15560879.0,2.0,2.0
+stomp and holler,15465547.0,1.0,1.0
+deep german hip hop,14612217.0,4.0,2.0
+electro latino,14538112.0,1.0,1.0
+champeta,14538112.0,1.0,1.0
+british soul,14356364.0,2.0,2.0
+birmingham metal,13651653.0,2.0,1.0
+garage rock,13556520.0,7.0,2.0
+g funk,12991854.0,3.0,3.0
+rap metal,11816086.0,4.0,2.0
+nu metal,11816086.0,4.0,2.0
+alternative metal,11816086.0,4.0,2.0
+norteno,11248250.0,1.0,1.0
+banda,11248250.0,1.0,1.0
+corrido,11248250.0,1.0,1.0
+funk 150 bpm,11061157.0,4.0,5.0
+post-romantic era,10580438.0,1.0,1.0
+ukrainian classical,10580438.0,1.0,1.0
+soundtrack,10580438.0,1.0,1.0
+shiver pop,10494531.0,2.0,1.0
+gauze pop,10494531.0,2.0,1.0
+britpop,10237932.0,1.0,1.0
+madchester,10237932.0,1.0,1.0
+country dawn,10231630.0,4.0,3.0
+rap boricua,9817837.0,1.0,1.0
+post-grunge,9726830.0,2.0,1.0
+indie soul,9402119.0,4.0,3.0
+rap napoletano,9318419.0,3.0,3.0
+southern soul,9264592.0,2.0,2.0
+classic soul,9264592.0,2.0,2.0
+sheffield indie,9171978.0,3.0,2.0
+chicago bop,8812324.0,1.0,1.0
+german singer-songwriter,8572460.0,2.0,2.0
+australian rock,8361099.0,4.0,1.0
+a cappella,8216971.0,2.0,1.0
+battle rap,8026109.0,2.0,2.0
+forro de favela,7944280.0,1.0,1.0
+jazz blues,7751535.0,2.0,1.0
+singer-songwriter,7584990.0,2.0,2.0
+dutch rap pop,7531229.0,4.0,4.0
+comedy rap,7383970.0,1.0,1.0
+german underground rap,7290269.0,2.0,1.0
+classic uk pop,7279724.0,2.0,2.0
+christlicher rap,7220239.0,3.0,1.0
+albanian hip hop,7000634.0,3.0,3.0
+classic country pop,6979311.0,3.0,2.0
+rap kreyol,6925842.0,1.0,1.0
+psychedelic rock,6908138.0,1.0,1.0
+sunshine pop,6908138.0,1.0,1.0
+baroque pop,6908138.0,1.0,1.0
+christmas instrumental,6835685.0,2.0,1.0
+jazz trio,6835685.0,2.0,1.0
+melodic metalcore,6650104.0,5.0,1.0
+uk metalcore,6650104.0,5.0,1.0
+metalcore,6650104.0,5.0,1.0
+afropop,6569203.0,5.0,4.0
+r&b brasileiro,6509509.0,3.0,1.0
+trap brasileiro,6509509.0,3.0,1.0
+rap cearense,6509509.0,3.0,1.0
+italo dance,6465304.0,2.0,2.0
+german indie,6291774.0,1.0,1.0
+jazz funk,6278552.0,1.0,1.0
+seattle hip hop,6044298.0,1.0,1.0
+bubblegum dance,5853504.0,1.0,1.0
+turkish hip hop,5732971.0,4.0,2.0
+transpop,5727398.0,1.0,1.0
+chicago soul,5724592.0,1.0,1.0
+batidao romantico,5683566.0,2.0,2.0
+italian underground hip hop,5556825.0,3.0,2.0
+italian indie pop,4515830.0,3.0,3.0
+italian reggae,4467903.0,1.0,1.0
+italian pop rock,4467903.0,1.0,1.0
+virginia hip hop,4075187.0,1.0,1.0
+halloween,4041570.0,2.0,2.0
+lilith,4038522.0,1.0,1.0
+ghanaian hip hop,3709345.0,2.0,1.0
+swedish dancehall,3709345.0,2.0,1.0
+yodeling,3676080.0,1.0,1.0
+cowboy western,3676080.0,1.0,1.0
+traditional country,3676080.0,1.0,1.0
+memphis soul,3540000.0,1.0,1.0
+soul blues,3540000.0,1.0,1.0
+old school rap francais,3486861.0,2.0,1.0
+bubblegum pop,3437244.0,1.0,1.0
+musica jibara,3367001.0,1.0,1.0
+puerto rican folk,3367001.0,1.0,1.0
+canadian country,3339205.0,1.0,1.0
+la indie,3320006.0,3.0,2.0
+texas country,3198606.0,2.0,2.0
+vancouver indie,3008706.0,1.0,1.0
+post-disco,2980981.0,1.0,1.0
+turkish trap pop,2957236.0,2.0,1.0
+brega romantico,2844813.0,1.0,1.0
+pop teen brasileiro,2844813.0,1.0,1.0
+turkish trap,2775735.0,2.0,1.0
+trap funk,2705514.0,1.0,1.0
+korean mask singer,2672817.0,2.0,1.0
+dixieland,2672117.0,1.0,1.0
+new orleans jazz,2672117.0,1.0,1.0
+harlem renaissance,2672117.0,1.0,1.0
+jazz trumpet,2672117.0,1.0,1.0
+nashville sound,2665821.0,2.0,1.0
+modern alternative pop,2603238.0,2.0,1.0
+novelty,2599350.0,1.0,1.0
+neo-singer-songwriter,2541626.0,1.0,1.0
+political hip hop,2499745.0,2.0,3.0
+british indie rock,2496902.0,2.0,1.0
+funk ostentacao,2192827.0,1.0,1.0
+classic canadian rock,2049895.0,1.0,1.0
+canadian singer-songwriter,2049895.0,1.0,1.0
+pop virale italiano,1940408.0,1.0,1.0
+rock en espanol,1878670.0,2.0,2.0
+latin alternative,1878670.0,2.0,2.0
+south carolina hip hop,1855570.0,2.0,1.0
+hi-nrg,1841298.0,1.0,1.0
+reggaeton mexicano,1810728.0,1.0,2.0
+hyphy,1794828.0,1.0,1.0
+west coast trap,1794828.0,1.0,1.0
+hawaiian hip hop,1702996.0,2.0,1.0
+rap sardegna,1679819.0,2.0,1.0
+lo-fi beats,1630086.0,1.0,1.0
+new americana,1570969.0,2.0,1.0
+roots rock,1570969.0,2.0,1.0
+alternative country,1570969.0,2.0,1.0
+folk,1570969.0,2.0,1.0
+swedish hip hop,1549087.0,2.0,1.0
+german trap,1538778.0,2.0,2.0
+south african pop dance,1464503.0,1.0,1.0
+german techno,1461267.0,2.0,1.0
+psychedelic soul,1456832.0,1.0,1.0
+indie jazz,1456832.0,1.0,1.0
+movie tunes,1448388.0,1.0,1.0
+southern rock,1438538.0,1.0,1.0
+argentine indie,1309697.0,1.0,1.0
+spanish rock,1291984.0,1.0,1.0
+latin rock,1291984.0,1.0,1.0
+schlager,1285882.0,1.0,1.0
+partyschlager,1285882.0,1.0,1.0
+classic schlager,1285882.0,1.0,1.0
+guaracha,1282606.0,1.0,2.0
+milan indie,1276214.0,1.0,1.0
+bergamo indie,1276214.0,1.0,1.0
+nova mpb,1259796.0,1.0,1.0
+rai,1135893.0,1.0,1.0
+moroccan pop,1135893.0,1.0,1.0
+rap maroc,1135893.0,1.0,1.0
+arabic hip hop,1135893.0,1.0,1.0
+contemporary vocal jazz,1088492.0,1.0,1.0
+big band,1062028.0,1.0,1.0
+turntablism,1052979.0,1.0,1.0
+jazz boom bap,1052979.0,1.0,1.0
+korean ost,921575.0,1.0,1.0
+korean pop,921575.0,1.0,1.0
+disco house,879683.0,1.0,1.0
+russelater,856986.0,1.0,1.0
+uk diy punk,848159.0,1.0,1.0
+black punk,848159.0,1.0,1.0
+danish pop,843385.0,1.0,1.0
+industrial hip hop,839395.0,1.0,1.0
+australian country,835522.0,1.0,1.0
+british singer-songwriter,829533.0,1.0,1.0
+irish rock,828738.0,1.0,1.0
+crunk,819014.0,1.0,1.0
+rap rock,809782.0,1.0,1.0
+rock keyboard,803820.0,1.0,1.0
+modern blues,797681.0,1.0,1.0
+english indie rock,788712.0,1.0,1.0
+kent indie,788712.0,1.0,1.0
+drill francais,788104.0,1.0,1.0
+deep groove house,787607.0,1.0,1.0
+portland hip hop,761730.0,1.0,1.0
+boston hip hop,744963.0,1.0,1.0
+rif,742390.0,1.0,1.0
+rumba congolaise,742159.0,1.0,1.0
+azontobeats,742159.0,1.0,1.0
+british invasion,722777.0,1.0,1.0
+cologne hip hop,712081.0,1.0,1.0
+german reggae,712081.0,1.0,1.0
+reggaeton chileno,706612.0,1.0,1.0
+pagode novo,705043.0,1.0,1.0
+pagode,705043.0,1.0,1.0
+grunge,700797.0,1.0,1.0
+ritmo kombina,692113.0,1.0,1.0
+dutch pop,668024.0,1.0,1.0
+azonto,653196.0,1.0,1.0
+indie liguria,642366.0,1.0,1.0
+circuit,641303.0,1.0,1.0
+instrumental funk,588554.0,1.0,1.0
+nu-cumbia,586686.0,1.0,1.0
+veracruz indie,586686.0,1.0,1.0
+gruperas inmortales,586686.0,1.0,1.0
+tropical,586686.0,1.0,1.0

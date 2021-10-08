@@ -43,7 +43,7 @@ for element in tracks_df.artist_id:
 
 artists_df['artist_id'] = artists_ids
 
-artists_df = artists_df.drop_duplicates(subset="artist_id", keep='first')
+#artists_df = artists_df.drop_duplicates(subset="artist_id", keep='first')
 
 
 artists_df['followers'] = ""
