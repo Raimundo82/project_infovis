@@ -1,0 +1,161 @@
+parent,child
+,root
+root,Western Europe
+root,North America and ANZ
+root,Middle East and North Africa
+root,Latin America and Caribbean
+root,Central and Eastern Europe
+root,East Asia
+root,Southeast Asia
+root,Commonwealth of Independent States
+root,Sub-Saharan Africa
+root,South Asia
+Western Europe,Finland
+Western Europe,Denmark
+Western Europe,Switzerland
+Western Europe,Iceland
+Western Europe,Netherlands
+Western Europe,Norway
+Western Europe,Sweden
+Western Europe,Luxembourg
+North America and ANZ,New Zealand
+Western Europe,Austria
+North America and ANZ,Australia
+Middle East and North Africa,Israel
+Western Europe,Germany
+North America and ANZ,Canada
+Western Europe,Ireland
+Latin America and Caribbean,Costa Rica
+Western Europe,United Kingdom
+Central and Eastern Europe,Czech Republic
+North America and ANZ,United States
+Western Europe,Belgium
+Western Europe,France
+Middle East and North Africa,Bahrain
+Western Europe,Malta
+East Asia,Taiwan Province of China
+Middle East and North Africa,United Arab Emirates
+Middle East and North Africa,Saudi Arabia
+Western Europe,Spain
+Western Europe,Italy
+Central and Eastern Europe,Slovenia
+Latin America and Caribbean,Guatemala
+Latin America and Caribbean,Uruguay
+Southeast Asia,Singapore
+Central and Eastern Europe,Kosovo
+Central and Eastern Europe,Slovakia
+Latin America and Caribbean,Brazil
+Latin America and Caribbean,Mexico
+Latin America and Caribbean,Jamaica
+Central and Eastern Europe,Lithuania
+Western Europe,Cyprus
+Central and Eastern Europe,Estonia
+Latin America and Caribbean,Panama
+Commonwealth of Independent States,Uzbekistan
+Latin America and Caribbean,Chile
+Central and Eastern Europe,Poland
+Commonwealth of Independent States,Kazakhstan
+Central and Eastern Europe,Romania
+Middle East and North Africa,Kuwait
+Central and Eastern Europe,Serbia
+Latin America and Caribbean,El Salvador
+Sub-Saharan Africa,Mauritius
+Central and Eastern Europe,Latvia
+Latin America and Caribbean,Colombia
+Central and Eastern Europe,Hungary
+Southeast Asia,Thailand
+Latin America and Caribbean,Nicaragua
+East Asia,Japan
+Latin America and Caribbean,Argentina
+Western Europe,Portugal
+Latin America and Caribbean,Honduras
+Central and Eastern Europe,Croatia
+Southeast Asia,Philippines
+East Asia,South Korea
+Latin America and Caribbean,Peru
+Central and Eastern Europe,Bosnia and Herzegovina
+Commonwealth of Independent States,Moldova
+Latin America and Caribbean,Ecuador
+Commonwealth of Independent States,Kyrgyzstan
+Western Europe,Greece
+Latin America and Caribbean,Bolivia
+East Asia,Mongolia
+Latin America and Caribbean,Paraguay
+Central and Eastern Europe,Montenegro
+Latin America and Caribbean,Dominican Republic
+Western Europe,North Cyprus
+Commonwealth of Independent States,Belarus
+Commonwealth of Independent States,Russia
+East Asia,Hong Kong S.A.R. of China
+Commonwealth of Independent States,Tajikistan
+Southeast Asia,Vietnam
+Middle East and North Africa,Libya
+Southeast Asia,Malaysia
+Southeast Asia,Indonesia
+Sub-Saharan Africa,Congo (Brazzaville)
+East Asia,China
+Sub-Saharan Africa,Ivory Coast
+Commonwealth of Independent States,Armenia
+South Asia,Nepal
+Central and Eastern Europe,Bulgaria
+South Asia,Maldives
+Commonwealth of Independent States,Azerbaijan
+Sub-Saharan Africa,Cameroon
+Sub-Saharan Africa,Senegal
+Central and Eastern Europe,Albania
+Central and Eastern Europe,North Macedonia
+Sub-Saharan Africa,Ghana
+Sub-Saharan Africa,Niger
+Commonwealth of Independent States,Turkmenistan
+Sub-Saharan Africa,Gambia
+Sub-Saharan Africa,Benin
+Southeast Asia,Laos
+South Asia,Bangladesh
+Sub-Saharan Africa,Guinea
+Sub-Saharan Africa,South Africa
+Middle East and North Africa,Turkey
+South Asia,Pakistan
+Middle East and North Africa,Morocco
+Latin America and Caribbean,Venezuela
+Commonwealth of Independent States,Georgia
+Middle East and North Africa,Algeria
+Commonwealth of Independent States,Ukraine
+Middle East and North Africa,Iraq
+Sub-Saharan Africa,Gabon
+Sub-Saharan Africa,Burkina Faso
+Southeast Asia,Cambodia
+Sub-Saharan Africa,Mozambique
+Sub-Saharan Africa,Nigeria
+Sub-Saharan Africa,Mali
+Middle East and North Africa,Iran
+Sub-Saharan Africa,Uganda
+Sub-Saharan Africa,Liberia
+Sub-Saharan Africa,Kenya
+Middle East and North Africa,Tunisia
+Middle East and North Africa,Lebanon
+Sub-Saharan Africa,Namibia
+Middle East and North Africa,Palestinian Territories
+Southeast Asia,Myanmar
+Middle East and North Africa,Jordan
+Sub-Saharan Africa,Chad
+South Asia,Sri Lanka
+Sub-Saharan Africa,Swaziland
+Sub-Saharan Africa,Comoros
+Middle East and North Africa,Egypt
+Sub-Saharan Africa,Ethiopia
+Sub-Saharan Africa,Mauritania
+Sub-Saharan Africa,Madagascar
+Sub-Saharan Africa,Togo
+Sub-Saharan Africa,Zambia
+Sub-Saharan Africa,Sierra Leone
+South Asia,India
+Sub-Saharan Africa,Burundi
+Middle East and North Africa,Yemen
+Sub-Saharan Africa,Tanzania
+Latin America and Caribbean,Haiti
+Sub-Saharan Africa,Malawi
+Sub-Saharan Africa,Lesotho
+Sub-Saharan Africa,Botswana
+Sub-Saharan Africa,Rwanda
+Sub-Saharan Africa,Zimbabwe
+South Asia,Afghanistan

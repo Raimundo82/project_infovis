@@ -38,21 +38,15 @@ def song_scrape(x):
     pos = 0
     for tr in songs.find("tbody").findAll("tr"):
         pos += 1
-        artist= tr.find("td", {"class": "chart-table-track"}).find("span").text
-        artist= artist.replace("by ","").strip()
-  
         title= tr.find("td", {"class": "chart-table-track"}).find("strong").text
- 
         songid= tr.find("td", {"class": "chart-table-image"}).find("a").get("href")
         songid= songid.split("track/")[1]
-
         streams= tr.find("td", {"class":"chart-table-streams"}).text
         
         if  "," in streams:
             streams = int(streams.replace(",",""))
 
-
-        final.append([pos, title, artist, songid, streams, url_date, region])
+        final.append([pos, title, songid, streams, url_date])
 	
 
 headers = {'user-agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36',}
@@ -70,7 +64,7 @@ for u in url_list:
     #region = (u.split("regional/")[1]).split("/daily")[0]
     try:
         songs= soup.find("table", {"class":"chart-table"})
-        region = soup.find("div", {"class":"responsive-select-value"}).text
+        #region = soup.find("div", {"class":"responsive-select-value"}).text
         song_scrape(u)
         counter += 1
         print(counter)
@@ -79,7 +73,7 @@ for u in url_list:
  
 #convert to data frame with pandas for easier data manipulation
 
-final_df = pd.DataFrame(final, columns= ["pos","title", "artist", "track_id", "streams","date", "country"])
+final_df = pd.DataFrame(final, columns= ["pos","title", "track_id", "streams","date"])
 
 #write to csv
 

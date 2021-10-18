@@ -1,0 +1,10 @@
+div {
+    width: 50%;
+    float: left;
+}
+
+.fruit-class {
+    font-size: 1.2em;
+    text-anchor: middle;
+    font-family: sans-serif;
+}

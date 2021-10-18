@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+
+    <meta name="description" content="Boilerplate for Laboratory Exercises" />
+    <meta name="author" content="Faculty" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Boilerplate</title>
+
+    <!-- Import libraries. -->
+    <script language="JavaScript" type="text/javascript" src="libs/d3.min.js"></script>
+
+    <!-- JS -->
+    <script language="JavaScript" type="text/javascript" src="scripts/behavior.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style/styles.css" />
+</head>
+
+<body onload="init()">
+    <div id="buttons" style="width: 100%">
+        <button onclick="dataChange('reset')">Reset</button>
+        <button onclick="dataChange('new')">New</button>
+        <button onclick="dataChange('old')">Old</button>
+        <button onclick="dataChange('adj')">Adjusted</button>
+    </div>
+    <br />
+    <br />
+    <div id="barChart"></div>
+    <div id="scatterPlot"></div>
+    <div id="lineChart"></div>
+    <div id="boxPlot"></div>
+    <div id="pieChart"></div>
+    <div id="bowlFruit"></div>
+
+
+</body>
+
+</html>

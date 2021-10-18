@@ -3,7 +3,6 @@ import yaml
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-
 with open("spotify_api_credentials.yaml","r") as yamlfile:
     data = yaml.load(yamlfile, Loader=yaml.FullLoader)
     client_id =data['client_id']
@@ -40,26 +39,25 @@ for id in track_ids:
         popularity = track_info['popularity']
         explicit = track_info['explicit']
         duration_ms = track_info['duration_ms']
-
+        collabs = 0
+        if len(artist_id.split(",")) > 0:
+            collabs = 1
         danceability = audio_features['danceability']
         energy = audio_features['energy']
-        key = audio_features['key']
         loudness = audio_features['loudness']
-        mode = audio_features['mode']
         speechiness = audio_features['speechiness']
         acousticness = audio_features['acousticness']
         instrumentalness = audio_features['instrumentalness']
         liveness = audio_features['liveness']
         valence = audio_features['valence']
         tempo = audio_features['tempo']
-        time_signature = audio_features['time_signature']
 
-    tracks.append([id,name,artist_id,artist_name, popularity, explicit,duration_ms, danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature])
+    tracks.append([id,name,artist_id,artist_name, popularity, explicit,duration_ms, collabs, danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo])
     pct = round(counter/length*100)
     if pct != last_pct:
         print(f'\x1b[1A\x1b[2K{counter}/{length} => {pct}%')
     last_pct = pct
 
 
-tracks_df = pd.DataFrame(tracks, columns= ["track_id","name","artist_id", "artist_name", "popularity", "explicit","duration_ms","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","liveness","valence","tempo","time_signature"])
+tracks_df = pd.DataFrame(tracks, columns= ["track_id","name","artist_id", "artist_name", "popularity", "explicit","duration_ms","collabs", "danceability","energy","loudness","speechiness","acousticness","instrumentalness","liveness","valence","tempo"])
 tracks_df.to_csv('project_datasets/global/global_tracks_2017_2020.csv', index=False, header=True)
